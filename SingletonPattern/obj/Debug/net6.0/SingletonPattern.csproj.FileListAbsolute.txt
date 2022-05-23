@@ -1,0 +1,15 @@
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\bin\Debug\net6.0\SingletonPattern.exe
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\bin\Debug\net6.0\SingletonPattern.deps.json
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\bin\Debug\net6.0\SingletonPattern.runtimeconfig.json
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\bin\Debug\net6.0\SingletonPattern.dll
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\bin\Debug\net6.0\SingletonPattern.pdb
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\obj\Debug\net6.0\SingletonPattern.csproj.AssemblyReference.cache
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\obj\Debug\net6.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\obj\Debug\net6.0\SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\obj\Debug\net6.0\SingletonPattern.AssemblyInfo.cs
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\obj\Debug\net6.0\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\obj\Debug\net6.0\SingletonPattern.dll
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\obj\Debug\net6.0\refint\SingletonPattern.dll
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\obj\Debug\net6.0\SingletonPattern.pdb
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\obj\Debug\net6.0\SingletonPattern.genruntimeconfig.cache
+C:\Users\erdal\source\repos\DesignPatterns\SingletonPattern\obj\Debug\net6.0\ref\SingletonPattern.dll

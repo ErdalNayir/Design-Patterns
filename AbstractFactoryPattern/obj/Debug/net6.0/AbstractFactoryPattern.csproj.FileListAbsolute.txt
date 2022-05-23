@@ -1,0 +1,15 @@
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.csproj.AssemblyReference.cache
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.AssemblyInfo.cs
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\bin\Debug\net6.0\AbstractFactoryPattern.exe
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\bin\Debug\net6.0\AbstractFactoryPattern.deps.json
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\bin\Debug\net6.0\AbstractFactoryPattern.runtimeconfig.json
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\bin\Debug\net6.0\AbstractFactoryPattern.dll
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\bin\Debug\net6.0\AbstractFactoryPattern.pdb
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.dll
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\obj\Debug\net6.0\refint\AbstractFactoryPattern.dll
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.pdb
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.genruntimeconfig.cache
+C:\Users\erdal\source\repos\DesignPatterns\AbstractFactoryPattern\obj\Debug\net6.0\ref\AbstractFactoryPattern.dll
